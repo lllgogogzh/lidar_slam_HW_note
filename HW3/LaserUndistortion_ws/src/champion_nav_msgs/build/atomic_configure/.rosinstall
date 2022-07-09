@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/gzh/lidar_slam_HW/HW3/LaserUndistortion_ws/src/champion_nav_msgs/devel/setup.sh

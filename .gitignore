@@ -1,32 +1,18 @@
-# Prerequisites
-*.d
+HW2/odom_calib/build/
+HW2/odom_ws/build/
+HW2/odom_ws/devel/
+HW3/LaserUndistortion_ws/build/
+HW3/LaserUndistortion_ws/devel/
+HW4/imlsMatcherProject/build/
+HW4/imlsMatcherProject/devel/
+HW5/gaussian_newton_ws/build/
+HW5/gaussian_newton_ws/devel/
+HW6/LSSLAMProject/build/
+HW6/LSSLAMProject/devel/
+HW7/OccupanyMappingProject/build/
+HW7/OccupanyMappingProject/devel/
+.vscode/
+HW2/odom_ws/bag/
+HW4/imlsMatcherProject/src/bag/
+HW5/gaussian_newton_ws/bag/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
